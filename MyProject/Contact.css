@@ -76,3 +76,48 @@
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
   }
+  .container-fluid {
+    min-height: 100%;
+}
+ 
+input {
+    font-size: 20px;
+}
+ 
+#form {
+    padding-left: 20px;
+}
+ 
+label {
+    color: hsl(240, 80%, 58%);
+    font-family: cursive;
+    text-align: center;
+    font-size: 15px;
+}
+ 
+p {
+    color: black;
+    font-family: cursive;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 0px;
+}
+ 
+h2 {
+    color: black;
+    text-align: center;
+}
+ 
+#form_submit {
+    border-radius: 10px;
+}
+ 
+#reset {
+    border-radius: 20px;
+}
+ 
+.join h1 {
+    font-size: 20px;
+}
